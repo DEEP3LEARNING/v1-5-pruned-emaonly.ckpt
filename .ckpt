@@ -1,0 +1,5 @@
+v1-5-pruned-emaonly.ckpt下载链接: https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+v1-5-pruned.ckpt下载链接：https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned.ckpt
+
+
+v1-5提供了两个ckpt，v1-5-pruned-emaonly.ckpt，4.27G，使用较少的VRAM，适用于推理。v1-5-pruned.ckpt较重，7.7G，使用更多的VRAM，适合微调。
